@@ -1,7 +1,6 @@
 package accessmodifier;
 
 public class PrivateAccessModifier {
-
     private int x=100;
     private void method_1()
     {
